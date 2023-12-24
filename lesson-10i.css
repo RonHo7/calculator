@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  font-family: Arial;
+}
+
+button {
+  font-size: 35px;
+  height: 60px;
+  width: 60px;
+  border: none;
+  border-radius: 50px;
+  padding: 5px;
+  margin: 2px;
+  cursor: pointer;
+  background-color: rgb(58, 58, 58);
+  color: white;
+}
+
+.display-area {
+  display: block;
+  /*
+  border-style: dashed;
+  border-width: 2px;
+  border-color: white;
+  */
+  height: 60px;
+  width: 260px;
+  font-size: 50px;
+  color: white;
+}
+
+.math-symbols {
+  background-color: orange;
+  color: black;
+}
+
+.clear-button {
+  font-size: 20px;
+}
